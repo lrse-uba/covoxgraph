@@ -49,7 +49,7 @@ If everything has worked correctly, this should open rviz and within a few secon
 
 
 ## Results
-<img alt="Voxgraph coordinate frames" src="https://git.robotica.dc.uba.ar/papers/icra2024/imgs/trajectories.png">
+<img alt="Trajectories" src= "https://github.com/lrse-uba/covoxgraph/blob/main/imgs/trajectories.png">
 
 ## Requeriments
 
