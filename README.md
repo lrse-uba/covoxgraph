@@ -14,8 +14,18 @@ git clone https://github.com/lrse-uba/covoxgraph.git
 wstool merge ./voxgraph/voxgraph_https.rosinstall
 wstool update
 ```
+## Install CUDA Toolkit
+### Installation Steps
+1. Go to https://developer.nvidia.com/cuda-toolkit-archive and choose your desire CUDA toolkit version that is compatible with the hardware you are using.
+2. Select your OS.
+3. Select your system architecture.
+4. Select your OS version.
+5. Select Installer Type and Follow the steps provided. (.exe on Windows and .run or .deb on Linux)
+
 ## Requeriments
 
 1. CUDA 12
 2. GCC 11 or later
 3. ROS Melodic or Noetic
+
+
